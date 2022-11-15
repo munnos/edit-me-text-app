@@ -17,6 +17,7 @@
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
+* [Link to deployed application](#link to deployed application)
 
 ## Installation
 
@@ -71,3 +72,7 @@ Testing was not required for this application.
 ## Questions
 
 If you have any queries regarding this project, you can contact me at munnos@hotmail.co.uk. My projects are available at: https://github.com/github/munnos.
+
+## Link to deployed application
+
+https://edit-text-init.herokuapp.com/
