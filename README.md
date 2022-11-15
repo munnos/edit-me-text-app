@@ -17,7 +17,7 @@
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
-* [Link to deployed application](#link to deployed application)
+* [Link to deployed application] (#link to deployed application)
 
 ## Installation
 
